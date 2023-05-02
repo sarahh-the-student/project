@@ -1,3 +1,4 @@
+key = int(input('Insert your key here')
 message = input('Insert your message here please')
 new_message = ''
 message = message.upper()
